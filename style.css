@@ -1,8 +1,9 @@
 h1{
     color: #e07676;
-    margin: auto;
-    padding: 20px;
+    margin: 250px 250px;
+    padding: 100px 500px;
     border: 2px black solid;
+    align-items: center;
 
 }
 
